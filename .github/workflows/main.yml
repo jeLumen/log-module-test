@@ -3,7 +3,7 @@ name: log-module-package
 on:
   push:
     branches:
-      - main
+      - master
 
 jobs:
   publish-gpr:
