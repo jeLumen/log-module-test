@@ -1,5 +1,5 @@
 {
-  "name": "log-module-test",
+  "name": "@jeLumen/log-module-test",
   "version": "1.0.0",
   "description": "NestJS npm package starter",
   "author": "Jesus Esquer",
