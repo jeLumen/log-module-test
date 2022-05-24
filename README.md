@@ -6,7 +6,7 @@
   </a>
 </div>
 
-<h3 align="center">NestJS npm Package Starter</h3>
+<h3 align="center">NestJS npm Package log module</h3>
 
 <div align="center">
   <a href="https://nestjs.com" target="_blank">
@@ -34,8 +34,4 @@ Contributions welcome! See [Contributing](CONTRIBUTING.md).
 
 ## Author
 
-**John Biundo (Y Prospect on [Discord](https://discord.gg/G7Qnnhy))**
-
-## License
-
-Licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Jesus Esquer **
